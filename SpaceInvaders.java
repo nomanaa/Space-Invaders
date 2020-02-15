@@ -1,12 +1,4 @@
-/**
-  *[ SpaceInvaders ]
-  *COMP1020 SECTION[A02]
-  *INSTRUCTOR:[ Olivier Tremblay-Savard ]
-  *NAME:[ Abdullah Al Noman]
-  *ASSIGNMENT:[Assignment 4]
-  *QUESTION:[ All of the parts of the assignement is completed except the bonus part]
-  **PURPOSE:[ This class controls the game state ]
-  */
+
 
 import java.util.ArrayList;
 public class SpaceInvaders {
